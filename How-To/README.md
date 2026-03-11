@@ -12,7 +12,7 @@ Sign‑in should require:
 
 1) In Microsoft Authenticator, enable **Cloud Backup** this will automatically setup Authenticators sign‑in notification.  
    ![Cloud-Backup](/assets/Cloud-Backup.png)
-2) In your Microsoft account **Security** settings, open the page that lists your **sign‑in methods** (Manage how I sign in).
+2) In your Microsoft account **Security** settings https://account.microsoft.com/security, open the page that lists your **sign‑in methods** (Manage how I sign in).
 3) Remove the method that allows **sign‑in notification approvals** “Send sign‑in notification”.  
    ![Remove-Sign-in-Notification](/assets/Remove-Sign-in-Notification.png)
 4) Add an authenticator method using **set up a different Authenticator app** (you can still use Microsoft Authenticator).  
